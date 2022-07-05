@@ -1,0 +1,23 @@
+body{
+   align-items: center;
+   padding-left: 100px;
+}
+.content{
+    display: flex;
+    flex-direction: row;
+}
+form{
+    justify-content: left;    
+}
+.table{
+    padding-top: 30px;
+    padding-left: 100px;
+}
+.boletim{
+    display:flex;
+    flex-direction:row;
+}
+.boletim form{
+    display:flex;
+    flex-direction: column;
+}

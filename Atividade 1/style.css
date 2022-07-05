@@ -1,0 +1,30 @@
+.disp{
+    width: 750px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.article{
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+.header{
+    background-color: #A020F0;
+    height: 100px;
+}
+.left{
+    background-color: #DC143C;
+    max-width:187.5px;
+    height: 150px;
+}
+.content{
+    background-color: #E0FFFF;
+    height: 450px;
+    width: 375px;
+}
+.right{
+    background-color: #008000;
+    height: 150px;
+    width:187.5px;
+}
